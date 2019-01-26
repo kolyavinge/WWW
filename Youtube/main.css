@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+}
+
+header {
+	background-color: #ffe4e4;
+	height: 52px;
+}
+
+nav {
+	background-color: #e4ebff;
+	float: left;
+	width: 256px;
+	height: 100%;
+}
+
+aside {
+	background-color: #e4ffe7;
+	float: left;
+	width: 500px;
+	height: 100%;
+}
